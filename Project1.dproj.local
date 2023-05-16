@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 08:37:43.000.867,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 08:40:59.000.402,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 21:17:46.000.402,=C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 16:02:35.000.760,=C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 17:06:08.000.577,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Project Visual2\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 17:06:08.000.577,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Project Visual2\Unit1.dfm</Transaction>
+    <Transaction>2023/05/14 17:06:51.000.372,=C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/14 17:14:25.000.968,=C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/14 17:14:47.000.885,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Project Visual2\Login.dfm</Transaction>
+    <Transaction>2023/05/14 17:14:47.000.884,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Project Visual2\Login.pas</Transaction>
+    <Transaction>2023/05/14 17:15:23.000.829,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Project Visual2\Modul01.pas</Transaction>
+    <Transaction>2023/05/14 17:15:23.000.829,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Project Visual2\Modul01.dfm</Transaction>
+    <Transaction>2023/05/14 17:29:58.000.366,C:\Users\Acer\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Project Visual2\Project1.dproj</Transaction>
+    <Transaction>2023/05/14 17:45:33.000.020,=D:\Project Visual2\Unit3.pas</Transaction>
+    <Transaction>2023/05/14 17:47:15.000.041,D:\Project Visual2\Unit3.dfm=D:\Project Visual2\DaftarAdmin.dfm</Transaction>
+    <Transaction>2023/05/14 17:47:15.000.041,D:\Project Visual2\Unit3.pas=D:\Project Visual2\DaftarAdmin.pas</Transaction>
+    <Transaction>2023/05/15 16:46:58.000.545,=D:\Project Visual2\Unit4.pas</Transaction>
+    <Transaction>2023/05/15 17:05:36.000.599,D:\Project Visual2\Desainer.dfm=D:\Project Visual2\Unit4.dfm</Transaction>
+    <Transaction>2023/05/15 17:05:36.000.599,D:\Project Visual2\Desainer.pas=D:\Project Visual2\Unit4.pas</Transaction>
+    <Transaction>2023/05/15 20:19:44.000.355,=D:\Project Visual2\Unit5.pas</Transaction>
+    <Transaction>2023/05/15 20:19:52.000.559,D:\Project Visual2\Unit5.pas=D:\Project Visual2\Bank.pas</Transaction>
+    <Transaction>2023/05/15 20:19:52.000.559,D:\Project Visual2\Unit5.dfm=D:\Project Visual2\Bank.dfm</Transaction>
+    <Transaction>2023/05/15 21:27:10.000.418,=D:\Project Visual2\Unit6.pas</Transaction>
+    <Transaction>2023/05/15 21:29:33.000.945,D:\Project Visual2\Produk.dfm=D:\Project Visual2\Unit6.dfm</Transaction>
+    <Transaction>2023/05/15 21:29:33.000.945,D:\Project Visual2\Produk.pas=D:\Project Visual2\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>
